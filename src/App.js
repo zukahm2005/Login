@@ -7,6 +7,7 @@ function App() {
         <div className="App">
             <h1>Login</h1>
             <LoginForm />
+            <App/>
         </div>
     );
 }
